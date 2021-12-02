@@ -1,0 +1,98 @@
+RID: UJB8G741016	
+Job Title: seq_1 				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: seq_1 Query ID: lcl|Query_1574 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Cervus elaphus genome assembly, chromosome: 8                     Cervus elaphus  red deer        9860       50.0   50.0  39%   0.034 89.74  55694185   OU343085.1       
+
+
+Alignments:
+
+>Cervus elaphus genome assembly, chromosome: 8
+Sequence ID: OU343085.1 Length: 55694185
+Range 1: 22889567 to 22889604
+
+Score:50.0 bits(54), Expect:0.034, 
+Identities:35/39(90%),  Gaps:1/39(2%), Strand: Plus/Minus
+
+Query  13        GGTTGGAGTGTGTGGGGGCGACCTGGAGGAGGGTGAGGC  51
+                 |||||||||| | ||||||  ||||||||||||||||||
+Sbjct  22889604  GGTTGGAGTGAG-GGGGGCTTCCTGGAGGAGGGTGAGGC  22889567
+
+
+
+
+
+Query #2: seq_2 Query ID: lcl|Query_1575 Length: 100
+
+No significant similarity found.
+
+
+
+Query #3: seq_3 Query ID: lcl|Query_1576 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Chanos chanos suppressor of cytokine signaling 5-li... Chanos chanos   milkfish        29144      50.0   50.0  34%   0.034 94.12  1909       XM_030777253.1   
+Chanos chanos genome assembly, chromosome: 6                      Chanos chanos   milkfish        29144      50.0   50.0  34%   0.034 94.12  50300218   LR697111.1       
+
+
+Alignments:
+
+>PREDICTED: Chanos chanos suppressor of cytokine signaling 5-like (LOC115814416), mRNA
+Sequence ID: XM_030777253.1 Length: 1909
+Range 1: 265 to 297
+
+Score:50.0 bits(54), Expect:0.034, 
+Identities:32/34(94%),  Gaps:1/34(2%), Strand: Plus/Minus
+
+Query  17   CCTTCTCCGTCGcccccccTCTGTTCTCTCCTCC  50
+            |||| ||||||||||||||||| |||||||||||
+Sbjct  297  CCTT-TCCGTCGCCCCCCCTCTCTTCTCTCCTCC  265
+
+
+
+
+>Chanos chanos genome assembly, chromosome: 6
+Sequence ID: LR697111.1 Length: 50300218
+Range 1: 2139171 to 2139203
+
+Score:50.0 bits(54), Expect:0.034, 
+Identities:32/34(94%),  Gaps:1/34(2%), Strand: Plus/Minus
+
+Query  17       CCTTCTCCGTCGcccccccTCTGTTCTCTCCTCC  50
+                |||| ||||||||||||||||| |||||||||||
+Sbjct  2139203  CCTT-TCCGTCGCCCCCCCTCTCTTCTCTCCTCC  2139171
+
+
+
+
+
+Query #4: seq_4 Query ID: lcl|Query_1577 Length: 100
+
+No significant similarity found.
+
+
+
+Query #5: seq_5 Query ID: lcl|Query_1578 Length: 100
+
+No significant similarity found.
+
+
+
+Query #6: seq_6 Query ID: lcl|Query_1579 Length: 100
+
+No significant similarity found.
+
+
+
+
+
+		
+
+

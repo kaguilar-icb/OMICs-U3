@@ -1,0 +1,311 @@
+RID: UJB8TE7R013	
+Job Title: seq_1 				
+Program:  
+Database: nt Nucleotide collection (nt)
+Query #1: seq_1 Query ID: lcl|Query_13414 Length: 500
+
+No significant similarity found.
+
+
+
+Query #2: seq_2 Query ID: lcl|Query_13415 Length: 500
+
+No significant similarity found.
+
+
+
+Query #3: seq_3 Query ID: lcl|Query_13416 Length: 500
+
+No significant similarity found.
+
+
+
+Query #4: seq_4 Query ID: lcl|Query_13417 Length: 500
+
+No significant similarity found.
+
+
+
+Query #5: seq_5 Query ID: lcl|Query_13418 Length: 500
+
+No significant similarity found.
+
+
+
+Query #6: seq_6 Query ID: lcl|Query_13419 Length: 500
+
+No significant similarity found.
+
+
+
+Query #7: seq_7 Query ID: lcl|Query_13420 Length: 500
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Poecilia reticulata genome assembly, chromosome: 13               Poecilia ret... guppy           8081       57.2   57.2  12%   0.002 81.67  33504201   LR880657.1       
+Heterodera glycines isolate TN10 chromosome 4                     Heterodera g... soybean cyst... 51029      56.3   56.3  8%    0.006 88.89  17907690   CP049708.1       
+Xestia xanthographa genome assembly, chromosome: 10               Xestia xanth... NA              988049     54.5   54.5  7%    0.020 92.31  31498888   OU565314.1       
+Vanessa atalanta genome assembly, chromosome: 11                  Vanessa atal... red admiral     42275      54.5   54.5  13%   0.020 78.26  12975212   LR990560.1       
+Xestia xanthographa genome assembly, chromosome: 10               Xestia xanth... NA              988049     54.5   54.5  7%    0.020 92.31  31498888   LR990651.1       
+
+
+Alignments:
+
+>Poecilia reticulata genome assembly, chromosome: 13
+Sequence ID: LR880657.1 Length: 33504201
+Range 1: 13385394 to 13385451
+
+Score:57.2 bits(62), Expect:0.002, 
+Identities:49/60(82%),  Gaps:2/60(3%), Strand: Plus/Plus
+
+Query  150       ATATTTGAAGTAGATTAATTAGTTTTTGATTTTGTATTCCCATTTCAATTTGCATAGTGC  209
+                 ||||||||||||||||  | | ||||||||||| | ||  |||||   ||||||||||||
+Sbjct  13385394  ATATTTGAAGTAGATTCTTGAATTTTTGATTTTATTTTTACATTT--TTTTGCATAGTGC  13385451
+
+
+
+
+>Heterodera glycines isolate TN10 chromosome 4
+Sequence ID: CP049708.1 Length: 17907690
+Range 1: 7367055 to 7367099
+
+Score:56.3 bits(61), Expect:0.006, 
+Identities:40/45(89%),  Gaps:1/45(2%), Strand: Plus/Minus
+
+Query  45       AATGaaaaaaaaattattt-caaaaacaaaaaTTTTCATATAATT  88
+                ||| ||||||||||  ||| ||||| |||||||||||||||||||
+Sbjct  7367099  AATAAAAAAAAAATGGTTTTCAAAACCAAAAATTTTCATATAATT  7367055
+
+
+
+
+>Xestia xanthographa genome assembly, chromosome: 10
+Sequence ID: OU565314.1 Length: 31498888
+Range 1: 16092688 to 16092725
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:36/39(92%),  Gaps:1/39(2%), Strand: Plus/Minus
+
+Query  163       ATTAATTAGTTTTTGATTTTGTATTCCCATTTCAATTTG  201
+                 |||||| ||||||||||||||||||  ||||||||||||
+Sbjct  16092725  ATTAAT-AGTTTTTGATTTTGTATTGTCATTTCAATTTG  16092688
+
+
+
+
+>Vanessa atalanta genome assembly, chromosome: 11
+Sequence ID: LR990560.1 Length: 12975212
+Range 1: 9633467 to 9633534
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:54/69(78%),  Gaps:1/69(1%), Strand: Plus/Minus
+
+Query  49       aaaaaaaaattatttcaaaaacaaaaaTTTTCATATAATTATCAGTTAATAAATTTCACT  108
+                |||||||||||||| ||  ||| || |||||  ||||||||||| |||| | |||| |  
+Sbjct  9633534  AAAAAAAAATTATT-CATTAACTAATATTTTATTATAATTATCAATTAAAATATTTAAAA  9633476
+
+Query  109      CAATTGGTT  117
+                 |||| |||
+Sbjct  9633475  TAATTCGTT  9633467
+
+
+
+
+>Xestia xanthographa genome assembly, chromosome: 10
+Sequence ID: LR990651.1 Length: 31498888
+Range 1: 16092688 to 16092725
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:36/39(92%),  Gaps:1/39(2%), Strand: Plus/Minus
+
+Query  163       ATTAATTAGTTTTTGATTTTGTATTCCCATTTCAATTTG  201
+                 |||||| ||||||||||||||||||  ||||||||||||
+Sbjct  16092725  ATTAAT-AGTTTTTGATTTTGTATTGTCATTTCAATTTG  16092688
+
+
+
+
+
+Query #8: seq_8 Query ID: lcl|Query_13421 Length: 500
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Taurulus bubalis genome assembly, chromosome: 11                  Taurulus bub... NA              61643      66.2   66.2  15%   3e-06 80.52  28346675   OU342721.1       
+Setaria viridis cultivar ME034v chromosome 3                      Setaria viridis NA              4556       65.3   65.3  15%   1e-05 80.52  49814079   CP050797.1       
+Hordeum vulgare subsp. vulgare genome assembly, chromosome: 0H    Hordeum vulg... domesticated... 112509     64.4   64.4  12%   1e-05 83.87  85026395   LR722623.1       
+Crassostrea gigas strain QD chromosome 3                          Crassostrea ... Pacific oyster  29159      62.6   62.6  13%   4e-05 82.35  63080788   CP048841.1       
+Pholis gunnellus genome assembly, chromosome: 13                  Pholis gunne... rock gunnel     56726      58.1   58.1  12%   0.002 79.69  25057060   OU342816.1       
+Mus musculus chromosome 8, clone RP23-265B11, complete sequence   Mus musculus    house mouse     10090      54.5   54.5  14%   0.020 77.03  191700     AC158951.5       
+Mus musculus chromosome 8, clone RP24-126M11, complete sequence   Mus musculus    house mouse     10090      54.5   54.5  14%   0.020 77.03  193119     AC117729.9       
+Mouse DNA sequence from clone RP23-96E23 on chromosome X,...      Mus musculus    house mouse     10090      54.5   54.5  18%   0.020 74.23  175809     AL714027.8       
+Clupea harengus clone MSild15 microsatellite sequence             Clupea harengus Atlantic her... 7950       53.6   53.6  7%    0.020 89.74  224        JQ388203.1       
+
+
+Alignments:
+
+>Taurulus bubalis genome assembly, chromosome: 11
+Sequence ID: OU342721.1 Length: 28346675
+Range 1: 7876620 to 7876694
+
+Score:66.2 bits(72), Expect:3e-06, 
+Identities:62/77(81%),  Gaps:3/77(3%), Strand: Plus/Plus
+
+Query  142      gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTAACATGAA  200
+                ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| ||||||||
+Sbjct  7876620  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAACATGAA  7876679
+
+Query  201      CATTTAAGTTCTTTGCG  217
+                |||||  || |||| ||
+Sbjct  7876680  CATTT--GTCCTTTTCG  7876694
+
+
+
+
+>Setaria viridis cultivar ME034v chromosome 3
+Sequence ID: CP050797.1 Length: 49814079
+Range 1: 13333995 to 13334071
+
+Score:65.3 bits(71), Expect:1e-05, 
+Identities:62/77(81%),  Gaps:2/77(2%), Strand: Plus/Minus
+
+Query  142       gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTAACAT-GA  199
+                 ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| || || ||
+Sbjct  13334071  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGATTGA  13334012
+
+Query  200       ACATTTAAGTTCTTTGC  216
+                 | ||| |||||||||||
+Sbjct  13334011  AGATTCAAGTTCTTTGC  13333995
+
+
+
+
+>Hordeum vulgare subsp. vulgare genome assembly, chromosome: 0H
+Sequence ID: LR722623.1 Length: 85026395
+Range 1: 43579783 to 43579844
+
+Score:64.4 bits(70), Expect:1e-05, 
+Identities:52/62(84%),  Gaps:1/62(1%), Strand: Plus/Minus
+
+Query  142       gaagaagaacaaaaggagtatgggaaa-aagaagaggaagaaggagaagaaTAACATGAA  200
+                 ||||||||| || ||||  | |  ||| ||||||| ||||||| ||||||||||||||||
+Sbjct  43579844  GAAGAAGAAGAAGAGGAAGAAGAAAAAGAAGAAGAAGAAGAAGAAGAAGAATAACATGAA  43579785
+
+Query  201       CA  202
+                 ||
+Sbjct  43579784  CA  43579783
+
+
+
+
+>Crassostrea gigas strain QD chromosome 3
+Sequence ID: CP048841.1 Length: 63080788
+Range 1: 11955800 to 11955867
+
+Score:62.6 bits(68), Expect:4e-05, 
+Identities:56/68(82%),  Gaps:2/68(2%), Strand: Plus/Plus
+
+Query  142       gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTA-ACATGA  199
+                 ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| | ||||||
+Sbjct  11955800  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGATACATGA  11955859
+
+Query  200       ACATTTAA  207
+                 ||||||||
+Sbjct  11955860  ACATTTAA  11955867
+
+
+
+
+>Pholis gunnellus genome assembly, chromosome: 13
+Sequence ID: OU342816.1 Length: 25057060
+Range 1: 506309 to 506367
+
+Score:58.1 bits(63), Expect:0.002, 
+Identities:51/64(80%),  Gaps:5/64(7%), Strand: Plus/Minus
+
+Query  141     cgaagaagaacaaaaggagtatgggaaaaagaagaggaagaaggagaagaaTAACATGAA  200
+               |||||||||| || | ||      ||| ||||||| ||||||| ||||||| ||||||||
+Sbjct  506367  CGAAGAAGAAGAAGAAGAA-----GAAGAAGAAGAAGAAGAAGAAGAAGAAGAACATGAA  506313
+
+Query  201     CATT  204
+               ||||
+Sbjct  506312  CATT  506309
+
+
+
+
+>Mus musculus chromosome 8, clone RP23-265B11, complete sequence
+Sequence ID: AC158951.5 Length: 191700
+Range 1: 84428 to 84501
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:57/74(77%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  142    gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTAACATGAA  200
+              ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| ||  | | 
+Sbjct  84428  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAATTCAT  84487
+
+Query  201    CATTTAAGTTCTTT  214
+                ||||||||||||
+Sbjct  84488  TCTTTAAGTTCTTT  84501
+
+
+
+
+>Mus musculus chromosome 8, clone RP24-126M11, complete sequence
+Sequence ID: AC117729.9 Length: 193119
+Range 1: 191249 to 191322
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:57/74(77%),  Gaps:1/74(1%), Strand: Plus/Minus
+
+Query  142     gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTAACATGAA  200
+               ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| ||  | | 
+Sbjct  191322  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAATTCAT  191263
+
+Query  201     CATTTAAGTTCTTT  214
+                 ||||||||||||
+Sbjct  191262  TCTTTAAGTTCTTT  191249
+
+
+
+
+>Mouse DNA sequence from clone RP23-96E23 on chromosome X, complete sequence
+Sequence ID: AL714027.8 Length: 175809
+Range 1: 71917 to 72011
+
+Score:54.5 bits(59), Expect:0.020, 
+Identities:72/97(74%),  Gaps:5/97(5%), Strand: Plus/Plus
+
+Query  142    gaagaagaacaa-aaggagtatgggaaaaagaagaggaagaaggagaagaaTAACATGAA  200
+              ||||||||| || ||| || |   ||| ||||||| ||||||| ||||||| || | |||
+Sbjct  71917  GAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAA  71976
+
+Query  201    CATTTAAGTTCTTTGCGGAAAT--TTTCCACATGAAG  235
+               ||| |  || |   | || ||  |||||||||||||
+Sbjct  71977  GATTCA--TTGTAAACTGAGATCTTTTCCACATGAAG  72011
+
+
+
+
+>Clupea harengus clone MSild15 microsatellite sequence
+Sequence ID: JQ388203.1 Length: 224
+Range 1: 25 to 63
+
+Score:53.6 bits(58), Expect:0.020, 
+Identities:35/39(90%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  165  gaaaaagaagaggaagaaggagaagaaTAACATGAACAT  203
+            ||| ||||||| ||||||| ||||||| |||||||||||
+Sbjct  63   GAAGAAGAAGAAGAAGAAGAAGAAGAAGAACATGAACAT  25
+
+
+
+
+
+
+
+		
+
+
